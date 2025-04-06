@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunitDemo", "XunitDemo\XunitDemo.csproj", "{32E6B11C-E205-4B82-805E-9DD4D16E545E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliburn.Micro.Extensions", "Caliburn.Micro.Extensions\Caliburn.Micro.Extensions.csproj", "{B593BB22-15F4-4565-8E98-F5E4225228D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E6B11C-E205-4B82-805E-9DD4D16E545E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E6B11C-E205-4B82-805E-9DD4D16E545E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E6B11C-E205-4B82-805E-9DD4D16E545E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E6B11C-E205-4B82-805E-9DD4D16E545E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B593BB22-15F4-4565-8E98-F5E4225228D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B593BB22-15F4-4565-8E98-F5E4225228D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B593BB22-15F4-4565-8E98-F5E4225228D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B593BB22-15F4-4565-8E98-F5E4225228D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E241C44-6A58-4140-9BA7-B33B4B79E7DA}
+	EndGlobalSection
+EndGlobal
